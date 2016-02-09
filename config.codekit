@@ -42,6 +42,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/arthur-kulkov.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21938,
+		"inputAbbreviatedPath": "\/images\/arthur-kulkov.jpg",
+		"outputAbbreviatedPath": "\/images\/arthur-kulkov.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/Baltimore.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -152,6 +163,50 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/glasses1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 109481,
+		"inputAbbreviatedPath": "\/images\/glasses1.jpg",
+		"outputAbbreviatedPath": "\/images\/glasses1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/glasses2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16102,
+		"inputAbbreviatedPath": "\/images\/glasses2.jpg",
+		"outputAbbreviatedPath": "\/images\/glasses2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/glasses3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 142399,
+		"inputAbbreviatedPath": "\/images\/glasses3.jpg",
+		"outputAbbreviatedPath": "\/images\/glasses3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/glasses4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 249924,
+		"inputAbbreviatedPath": "\/images\/glasses4.jpg",
+		"outputAbbreviatedPath": "\/images\/glasses4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/green.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -163,6 +218,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/Kurnikova.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 508715,
+		"inputAbbreviatedPath": "\/images\/Kurnikova.jpg",
+		"outputAbbreviatedPath": "\/images\/Kurnikova.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/logo.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -170,6 +236,17 @@
 		"initialSize": 16257,
 		"inputAbbreviatedPath": "\/images\/logo.png",
 		"outputAbbreviatedPath": "\/images\/logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/male.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 445013,
+		"inputAbbreviatedPath": "\/images\/male.jpg",
+		"outputAbbreviatedPath": "\/images\/male.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
