@@ -198,6 +198,30 @@ img.grayscale {
   letter-spacing: 1px;
 }
 
+/*Section 1
+---------------------------------- */
+.team__item {
+  margin-bottom: 40px;
+  padding: 5px;
+  border: 1px solid #E0E0E0;
+}
+
+.team-item__img {
+  margin-bottom: 25px;
+}
+
+.team-item__name {
+  font-weight: 700;
+  text-align: center;
+  font-size: 15px;
+}
+.team-item__position {
+  margin-bottom: 10px;
+  color: #9a9a9a;
+  text-align: center;
+  font-size: 15px;
+}
+
 
 .callout {
   color: #ffffff;
