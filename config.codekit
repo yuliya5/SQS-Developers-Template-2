@@ -42,17 +42,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/arthur-kulkov.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 21938,
-		"inputAbbreviatedPath": "\/images\/arthur-kulkov.jpg",
-		"outputAbbreviatedPath": "\/images\/arthur-kulkov.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/images\/Baltimore.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -93,17 +82,6 @@
 		"initialSize": 13633,
 		"inputAbbreviatedPath": "\/images\/blue.jpg",
 		"outputAbbreviatedPath": "\/images\/blue.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/brushes.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 79162,
-		"inputAbbreviatedPath": "\/images\/brushes.jpg",
-		"outputAbbreviatedPath": "\/images\/brushes.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -218,17 +196,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/Kurnikova.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 508715,
-		"inputAbbreviatedPath": "\/images\/Kurnikova.jpg",
-		"outputAbbreviatedPath": "\/images\/Kurnikova.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/images\/logo.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -236,17 +203,6 @@
 		"initialSize": 16257,
 		"inputAbbreviatedPath": "\/images\/logo.png",
 		"outputAbbreviatedPath": "\/images\/logo.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/male.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 445013,
-		"inputAbbreviatedPath": "\/images\/male.jpg",
-		"outputAbbreviatedPath": "\/images\/male.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
