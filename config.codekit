@@ -229,6 +229,138 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/portfolio-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17732,
+		"inputAbbreviatedPath": "\/images\/portfolio-1.jpg",
+		"outputAbbreviatedPath": "\/images\/portfolio-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/portfolio-10.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 39212,
+		"inputAbbreviatedPath": "\/images\/portfolio-10.jpg",
+		"outputAbbreviatedPath": "\/images\/portfolio-10.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/portfolio-11.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23938,
+		"inputAbbreviatedPath": "\/images\/portfolio-11.jpg",
+		"outputAbbreviatedPath": "\/images\/portfolio-11.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/portfolio-12.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15889,
+		"inputAbbreviatedPath": "\/images\/portfolio-12.jpg",
+		"outputAbbreviatedPath": "\/images\/portfolio-12.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/portfolio-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 26550,
+		"inputAbbreviatedPath": "\/images\/portfolio-2.jpg",
+		"outputAbbreviatedPath": "\/images\/portfolio-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/portfolio-3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 26779,
+		"inputAbbreviatedPath": "\/images\/portfolio-3.jpg",
+		"outputAbbreviatedPath": "\/images\/portfolio-3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/portfolio-4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23953,
+		"inputAbbreviatedPath": "\/images\/portfolio-4.jpg",
+		"outputAbbreviatedPath": "\/images\/portfolio-4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/portfolio-5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17680,
+		"inputAbbreviatedPath": "\/images\/portfolio-5.jpg",
+		"outputAbbreviatedPath": "\/images\/portfolio-5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/portfolio-6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 46436,
+		"inputAbbreviatedPath": "\/images\/portfolio-6.jpg",
+		"outputAbbreviatedPath": "\/images\/portfolio-6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/portfolio-7.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13059,
+		"inputAbbreviatedPath": "\/images\/portfolio-7.jpg",
+		"outputAbbreviatedPath": "\/images\/portfolio-7.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/portfolio-8.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15397,
+		"inputAbbreviatedPath": "\/images\/portfolio-8.jpg",
+		"outputAbbreviatedPath": "\/images\/portfolio-8.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/portfolio-9.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13059,
+		"inputAbbreviatedPath": "\/images\/portfolio-9.jpg",
+		"outputAbbreviatedPath": "\/images\/portfolio-9.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/red.jpg": {
 		"fileType": 16384,
 		"ignore": 0,

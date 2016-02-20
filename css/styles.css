@@ -256,19 +256,109 @@ img.grayscale {
 .filters {
   margin: 0 0 30px 0;
 }
-/*.filters .nav-pills > li {
+.filters .nav-pills > li {
   margin-right: 2px;
   margin-bottom: 2px;
-}*/
-/*.filters .nav-pills > li + li {
+}
+.filters .nav-pills > li + li {
   margin-left: 0px;
-}*/
+}
 .text-center.filters .nav-pills > li {
   margin-right: 2px;
-  /*margin-left: 2px;*/
-  /*margin-bottom: 2px;*/
+  margin-left: 2px;
+  margin-bottom: 2px;
   display: inline-block;
   float: none;
+}
+
+.isotope-container {
+  overflow: hidden;
+}
+.isotope-item {
+  margin-bottom: 20px;
+}
+.isotope-item .btn-default {
+  color: #FFFFFF;
+  background: rgba(58, 58, 58, 0.56);
+  margin-top: -36px;
+  z-index: 2;
+  position: relative;
+  border: 0;
+  display: none;
+}
+.isotope-item .btn-default:hover {
+  color: #ffffff;
+}
+
+@media (max-width:768px) {
+.navbar-nav {
+    margin: 7.5px -15px;
+    background: #060606;
+}
+}
+@media (max-width:480px) {
+  .filters .nav-pills > li {
+    width: 100%;
+    display: block;
+  }
+}
+
+/* Images Overlay
+----------------------------------------------------------------------------- */
+.overlay-container {
+  position: relative;
+  display: block;
+  overflow: hidden;
+}
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: -1px;
+  left: 0;
+  right: -1px;
+  background-color: rgba(255, 196, 0, 0.66);
+  cursor: pointer;
+  overflow: hidden;
+  opacity: 0;
+  filter: alpha(opacity=0);
+  -webkit-transform: scale(0.8);
+  transform: scale(0.8);
+  -webkit-transition: all linear 0.2s;
+  -moz-transition: all linear 0.2s;
+  -ms-transition: all linear 0.2s;
+  -o-transition: all linear 0.2s;
+  transition: all linear 0.2s;
+}
+.overlay:hover {
+  text-decoration: none;
+}
+.overlay span {
+  position: absolute;
+  display: block;
+  bottom: 10px;
+  text-align: center;
+  width: 100%;
+  color: #ffffff;
+  font-size: 13px;
+  font-weight: 300;
+}
+.overlay i {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  font-size: 26px;
+  line-height: 1x;
+  color: #2F2F2F;
+  margin-top: -8px;
+  margin-left: -8px;
+  text-align: center;
+  font-weight: normal;
+}
+.overlay-container:hover .overlay {
+  opacity: 1;
+  filter: alpha(opacity=100);
+  -webkit-transform: scale(1);
+  transform: scale(1);
 }
 
 /* Pills
@@ -291,6 +381,23 @@ img.grayscale {
   font-weight: 300;
 }
 
+/* Modals
+---------------------------------- */
+.modal-header {
+  background-color: #626262;
+  color: #ffffff;
+}
+.modal-header .close {
+  font-weight: 300;
+  color: #FFFFFF;
+  opacity: 1;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
 
 
 
