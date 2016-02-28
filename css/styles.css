@@ -301,15 +301,10 @@ img.grayscale {
   float: none;
 }
 
-.isotope-container {
-  overflow: hidden;
-}
 .isotope-item {
   margin-bottom: 20px;
 }
-.isotope-item .btn-default {
-  display: none;
-}
+
 
 /* Images Overlay
 ----------------------------------------------------------------------------- */
