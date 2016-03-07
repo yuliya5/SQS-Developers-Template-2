@@ -376,6 +376,12 @@ img {
   height: auto;
 }
 
+/*Section 4
+---------------------------------- */
+.default-bg {
+  background-color: #FFC400;
+  color: black;
+}
 
 
 /*Section 5
