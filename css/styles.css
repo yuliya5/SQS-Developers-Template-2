@@ -383,55 +383,48 @@ img {
   color: black;
 }
 
-/* carousel */
-#quote-carousel 
-{
+/* carousel items*/
+#quote-carousel{
   padding: 0 10px 30px 10px;
-  margin-top: 30px;
+  margin-top: 40px;
 }
 
 /* Control buttons  */
-#quote-carousel .carousel-control
-{
+/*#quote-carousel .carousel-control{
   background: none;
   color: #222;
   font-size: 2.3em;
   text-shadow: none;
   margin-top: 30px;
-}
+}*/
 /* Previous button  */
-#quote-carousel .carousel-control.left 
-{
+/*#quote-carousel .carousel-control.left{
   left: -12px;
-}
+}*/
 /* Next button  */
-#quote-carousel .carousel-control.right 
-{
+/*#quote-carousel .carousel-control.right{
   right: -12px !important;
-}
+}*/
 /* Changes the position of the indicators */
-#quote-carousel .carousel-indicators 
-{
-  right: 50%;
-  top: auto;
+.carousel-indicators{
+  /*right: 50%;
+  top: auto;*/
   bottom: 0px;
-  margin-right: -19px;
+  /*margin-right: -19px;*/
 }
 /* Changes the color of the indicators */
-#quote-carousel .carousel-indicators li 
-{
+.carousel-indicators li{
   background: #FFFFFF;
 }
-#quote-carousel .carousel-indicators .active 
-{
+.carousel-indicators .active{
   background: #333333;
   border: 1px solid #333;
 }
-#quote-carousel img
-{
+/*#quote-carousel img{
   width: 250px;
   height: 100px
-}
+}*/
+
 /* End carousel */
 
 .item blockquote {
