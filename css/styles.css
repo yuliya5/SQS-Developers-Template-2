@@ -338,6 +338,18 @@ img.grayscale {
   transform: scale(1);
 }
 
+.overlay i {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  font-size: 40px;
+  line-height: 1x;
+  color: #ffffff;
+  margin-top: -8px;
+  margin-left: -8px;
+  text-align: center;
+}
+
 /* Pills
 ---------------------------------- */
 .nav-pills > li.active > a,
@@ -490,7 +502,6 @@ img {
   line-height: 54px;
   vertical-align: top;
   color: #fff;
-  /*display: inline-block;*/
 }
 
 .pricing2 .top .price b {
@@ -503,6 +514,7 @@ img {
   color: #fff;
   font-size: 20px;
 }
+
 
 
 
