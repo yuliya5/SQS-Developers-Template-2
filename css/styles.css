@@ -462,9 +462,9 @@ img {
 /*Section 5
 ---------------------------------- */
 
-.item.pricing{
+/*.item.pricing{
   padding: 70px 0;
-}
+}*/
 
 .pricing2:hover {
   box-shadow: 0px 3px 50px rgba(0,0,0,0.5);
@@ -522,8 +522,42 @@ img {
   -webkit-border-bottom-left-radius: 8px;
 }
 
+.pricing2 .bottom ul {
+  list-style: none;
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+}
 
+.pricing2 .bottom ul li {
+  line-height: 64px;
+  border-bottom: 3px solid #dee2e4;
+  padding: 0px 40px;
+  font-size: 16px;
+}
 
+.pricing2 .bottom ul li > span {
+  color: #16A085;
+  font-size: 25px;
+  margin-right: 20px;
+}
+
+.pricing2 .bottom > a {
+  margin: 40px;
+  width: auto;
+}
+
+.btn{
+  padding: 12px 15px;
+  background-color: #16A085;
+  font-size: 16px;
+  border: none;
+}
+
+.btn:hover{
+  background-color: orange;
+  border: none;
+}
 
 
 
