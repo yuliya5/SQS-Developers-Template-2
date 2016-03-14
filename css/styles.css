@@ -450,7 +450,36 @@ img {
 /*Section 5
 ---------------------------------- */
 
+.item.pricing{
+  padding: 70px 0;
+}
 
+.pricing2:hover {
+  box-shadow: 0px 3px 50px rgba(0,0,0,0.5);
+}
+
+.pricing2 {
+  border-radius: 6px;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  transition: box-shadow 1s;
+  -webkit-transition: box-shadow 1s;
+  -moz-transition: box-shadow 1s;
+}
+
+.pricing2 .top {
+  background: orange;
+  color: #eee;
+  padding: 50px;
+  /*color: #ECF0F1;*/
+  -webkit-border-top-left-radius: 8px;
+  -webkit-border-top-right-radius: 8px;
+  /*-moz-border-radius-topleft: 6px;
+  -moz-border-radius-topright: 6px;
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;*/
+  text-align: center;
+}
 
 
 
