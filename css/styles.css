@@ -489,8 +489,22 @@ img {
   font-size: 24px;
   line-height: 54px;
   vertical-align: top;
-  display: inline-block;
+  color: #fff;
+  /*display: inline-block;*/
 }
+
+.pricing2 .top .price b {
+  font-size: 60px;
+  line-height: 70px;
+  color: #fff;
+}
+
+.pricing2 .top .price .month{
+  color: #fff;
+  font-size: 20px;
+}
+
+
 
 
 
