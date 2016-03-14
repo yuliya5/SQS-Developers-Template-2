@@ -36,6 +36,7 @@
         <li><a href="#sec3">Team</a></li>
         <li><a href="#sec4">Portfolio</a></li>
         <li><a href="#sec5">Price</a></li>
+        <li><a href="#sec6">Contact</a></li>
       </ul>
     </div>
    </div>
@@ -469,7 +470,7 @@
   </div>
 </div>
 
-<section class="price" class="item pricing" id="sec5">
+<section class="section secPadding" class="item pricing" id="sec5">
   <div class="container">
     <div class="row">
       <div class="col-md-4">
@@ -535,15 +536,41 @@
         </div><!-- closing pricing2  -->
       </div><!-- closing col-md-4 -->
 
-
-
-
-
     </div><!-- closing row -->
   </div><!-- closing container -->
 </section><!-- closing section -->
 
+    <!-- footer start -->
+    <!-- ================ -->
+<div class="footer section secPadding" id="sec6">
+  <div class="container">
+    <h1 class="title text-center" id="contact">Contact Us</h1>
+    <div class="space"></div>
+    <div class="row">
 
+      <div class="col-sm-6">
+        <div class="footer-content">
+          <form method="POST" id="contact-form" class="form-horizontal" action="contactengine.php" onSubmit="alert('Thank you for your feedback!');">
+          <div class="form-group">
+          <input type="text" name="Name" id="Name" class="form-control wow fadeInUp" placeholder="Name" required/>
+          </div><!-- closing name -->
+          <div class="form-group">
+          <input type="text" name="Email" id="Email" class="form-control wow fadeInUp" placeholder="Email" required/>
+          </div><!-- closing email -->
+          <div class="form-group">
+          <textarea name="Message" rows="10" cols="20" id="Message" class="form-control input-message wow fadeInUp" placeholder="Message" required/></textarea>
+          </div><!-- closing message -->
+          <div class="form-group">
+          <input type="submit" name="submit" value="submit" class="btn btn-default" />
+          </div><!-- closing submit -->
+          </form><!-- closing form -->
+        </div><!-- closing footer-content -->
+      </div><!-- closing col-sm-6 -->
+
+      <div class="col-sm-6"></div>
+    </div><!-- closing row -->
+  </div><!-- closing container -->
+</div><!-- closing footer section -->
 
 
 
