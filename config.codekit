@@ -506,17 +506,6 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
-	"\/images\/2016.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 243801,
-		"inputAbbreviatedPath": "\/images\/2016.jpg",
-		"outputAbbreviatedPath": "\/images\/2016.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/images\/709119.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -605,28 +594,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/developer.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 739685,
-		"inputAbbreviatedPath": "\/images\/developer.jpg",
-		"outputAbbreviatedPath": "\/images\/developer.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/fun_computer.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 469189,
-		"inputAbbreviatedPath": "\/images\/fun_computer.jpg",
-		"outputAbbreviatedPath": "\/images\/fun_computer.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/images\/glasses1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -689,17 +656,6 @@
 		"initialSize": 16257,
 		"inputAbbreviatedPath": "\/images\/logo.png",
 		"outputAbbreviatedPath": "\/images\/logo.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/mouse.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 13438,
-		"inputAbbreviatedPath": "\/images\/mouse.jpg",
-		"outputAbbreviatedPath": "\/images\/mouse.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
